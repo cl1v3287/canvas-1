@@ -8,7 +8,7 @@ context.rect(0,600,800,600);
 var lGradient = context.createLinearGradient(0,0,800,0);
 lGradient.addColorStop(0,"1A4F99");
 lGradient.addColorStop(0.5,"#0d264a");
-lGradient.addColorStop(1,"#0069fc");
+lGradient.addColorStop(1,"#00c3ff");
 
 
 context.fillStyle=lGradient;
